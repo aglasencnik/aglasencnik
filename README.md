@@ -75,7 +75,7 @@ Hi there, I'm a junior developer who believes in the magic of .NET, and my heart
 
 ### ☕ Support My Work
 
-If you appreciate my work or find it helpful, feel free to support me by buying me a coffee! Every bit helps and motivates me to keep creating and contributing. [Buy me a coffee! ☕](https://www.buymeacoffee.com/YourUsername)
+If you appreciate my work or find it helpful, feel free to support me by buying me a coffee! Every bit helps and motivates me to keep creating and contributing. [Buy me a coffee! ☕](https://www.buymeacoffee.com/aglasencnik)
 
 ---
 
