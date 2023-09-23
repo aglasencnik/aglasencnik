@@ -43,7 +43,7 @@ Hi there, I'm a junior developer who believes in the magic of .NET, and my heart
 - Mastering the nuances of .NET, aiming to push its boundaries further.
 - Embracing challenges that make me go an extra mile in coding.
 
-💌 **Want to Collaborate or Just Say Hi?**
+📩 **Want to Collaborate or Just Say Hi?**
 - Drop by my [LinkedIn](https://www.linkedin.com/in/aglasencnik) - always happy to connect with fellow tech enthusiasts!
 - Catch me on Instagram: [@aglasencnik](https://www.instagram.com/aglasencnik/).
 - For more direct discussions, ping me on Discord: **aglasencnik**.
