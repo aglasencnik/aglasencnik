@@ -71,6 +71,11 @@ Hi there, I'm a junior developer who believes in the magic of .NET, and my heart
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 </p>
 
+---
+
+### ☕ Support My Work
+
+If you appreciate my work or find it helpful, feel free to support me by buying me a coffee! Every bit helps and motivates me to keep creating and contributing. [Buy me a coffee! ☕](https://www.buymeacoffee.com/YourUsername)
 
 ---
 
